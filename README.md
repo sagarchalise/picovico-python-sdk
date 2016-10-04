@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sagarchalise/picovico-python-sdk.svg?branch=master)](https://travis-ci.org/sagarchalise/picovico-python-sdk)
+
 #Picovico Python SDK
 The official python-sdk from Picovico API. **(Includes picovico-client CLI tool to explore the API)**
 
